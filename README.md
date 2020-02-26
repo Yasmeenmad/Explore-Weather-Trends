@@ -1,13 +1,13 @@
 # Udacity Data Analysis Nanodegree Project 1
-# Exploring Weather Trends
+## Exploring Weather Trends
 
-## Summary
+### Summary
 In this project, we have analyzed local and global temperature data and compare the temperature trends where we live to overall global temperature trends.
 
-## Instructions
+### Instructions
 our goal will be to create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where we live. To do this, We have taken the following steps:
 
-- Extract the data from the database. We have exported the temperature data for the world as well as for the closest big city to where you live from city_list table. To interact with the database, We needed to write a SQL query.
+- Extract the data from the database. We have exported the temperature data for the world as well as for the closest big city to where you live from 'city_list' table. To interact with the database, We needed to write a SQL query.
 
 - Open up the CSV in Excel.
 
